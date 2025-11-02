@@ -1,10 +1,11 @@
-import TabDemo from "./Tabs/TabsDemo";
+import AccordionDemo from "./Accordion/AccordionDemo";
 
 export default function App() {
   return (
     <div>
       {/*<Todo />*/}
-      <TabDemo />
+      {/*<TabDemo />*/}
+      <AccordionDemo />
     </div>
   );
 }
